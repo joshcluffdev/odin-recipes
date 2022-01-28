@@ -1,1 +1,2 @@
 # odin-recipes
+I mean honestly this is gonna be a shot in the dark at actually getting a framework up of a report/graph. I really would like to be able to have very clear sections, and even spacing/formatting on the website, but with basic html on the first go, who knows.
